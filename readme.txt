@@ -8,3 +8,4 @@ Stupid boss.
 Creating a new branch is quick.
 Switched to a new branch is quick AND simple.
 no ff merge.
+assume I'm fixing bug.
