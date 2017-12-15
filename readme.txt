@@ -7,3 +7,4 @@ My stupid boss still prefers SVN.
 Stupid boss.
 Creating a new branch is quick.
 Switched to a new branch is quick AND simple.
+no ff merge.
